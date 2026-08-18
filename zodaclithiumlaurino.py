@@ -14,7 +14,7 @@ year_of_birth = int(input("Enter your birth year: "))
 
 #Check the year
 if year_of_birth < 1900:
-  print("Invalid year. The year of birth must be earlier than 1900.")
+  print("Invalid year. Your year of birth must be earlier than 1900. Please Try Again.")
 else:
   zodiac_number = (year_of_birth - 1900) % 12
 
