@@ -2,4 +2,4 @@
 ## Coding Exercises
 
 - [Zodiac Section Documentation](ZodiacLithiumLaurino.md)
-- [Zodiac Python Code](zodacLithiumLaurino.py)
+- [Zodiac Python Code](zodaclithiumlaurino.py)
